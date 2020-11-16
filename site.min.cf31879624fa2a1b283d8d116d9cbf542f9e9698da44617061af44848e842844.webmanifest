@@ -1,0 +1,20 @@
+{
+  "name": "Urban House",
+  "short_name": "Urban House",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.7d123a749b4ab6a53b015adfc32c3fc152bc43c776b47d11c004b3c2155ee6e6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.903a93040e3d779f64e61440fe4377391284097b2dbb232b4934786e612a0dbf.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "https://www.uhjeans.com",
+  "display": "standalone"
+}
